@@ -1,3 +1,7 @@
+#Mac OS file exclusion
+.DS_Store
+#config file exclusion
+api_keys.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
